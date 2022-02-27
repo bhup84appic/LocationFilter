@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Margins -->
+    <dimen name="margin_xxsmall">1dp</dimen>
+    <dimen name="margin_xsmall">3dp</dimen>
+    <dimen name="margin_vsmall">5dp</dimen>
+    <dimen name="margin_small">10dp</dimen>
+    <dimen name="margin_medium">15dp</dimen>
+    <dimen name="margin_large">20dp</dimen>
+    <dimen name="margin_vlarge">25dp</dimen>
+    <dimen name="margin_vvlarge">28dp</dimen>
+    <dimen name="margin_xlarge">30dp</dimen>
+    <dimen name="margin_xxlarge">40dp</dimen>
+
+
+    <!-- Text Sizes -->
+    <dimen name="txt_vsmall">8sp</dimen>
+    <dimen name="txt_small">12sp</dimen>
+    <dimen name="txt_medium">14sp</dimen>
+    <dimen name="txt_medium1">16sp</dimen>
+    <dimen name="txt_large">18sp</dimen>
+    <dimen name="txt_v1large">18sp</dimen>
+    <dimen name="txt_vlarge">20sp</dimen>
+    <dimen name="txt_vvlarge">22sp</dimen>
+    <dimen name="txt_vvvlarge">25sp</dimen>
+    <dimen name="txt_xlarge">30sp</dimen>
+    <dimen name="txt_x1large">32sp</dimen>
+    <dimen name="txt_exlarge">50sp</dimen>
+
+    <dimen name="text_size_body_1">14sp</dimen>
+    <dimen name="text_size_large">22sp</dimen>
+    <dimen name="text_size_medium">18sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="size18sp">18sp</dimen>
+    <dimen name="text22">22sp</dimen>
+    <dimen name="text18">18sp</dimen>
+    <dimen name="text16">16sp</dimen>
+    <dimen name="text20">20sp</dimen>
+    <dimen name="text14">14sp</dimen>
+    <dimen name="text28">28sp</dimen>
+    <dimen name="text12">12sp</dimen>
+    <dimen name="text10">10sp</dimen>
+    <dimen name="text32">32sp</dimen>
+    <dimen name="text15">15sp</dimen>
+
+    <dimen name="rupee_sales_count_text_size">30sp</dimen>
+    <dimen name="sales_count_text_size">45sp</dimen>
+    <dimen name="sales_count_dec_text_size">30sp</dimen>
+    <dimen name="paylater_amount_text_dec_size">16sp</dimen>
+    <dimen name="paylater_amount_text_size">22sp</dimen>
+    <dimen name="paylater_bottom_text">10sp</dimen>
+</resources>

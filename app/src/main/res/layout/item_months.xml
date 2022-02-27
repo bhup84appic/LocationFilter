@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/monthLL"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/_10sdp">
+
+    <TextView
+        android:id="@+id/tv_month_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="@font/montserrat_regular"
+        android:gravity="center"
+        android:letterSpacing="0.1"
+        android:padding="@dimen/_14sdp"
+        android:text="April 2015"
+        android:textColor="@color/blackText50"
+        android:textSize="@dimen/_12ssp" />
+
+</LinearLayout>

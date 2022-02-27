@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /*
+  ~  Created by Pooran Kharol on 30/1/21 3:54 PM
+  ~  Copyright (c) 2021 . All rights reserved.
+  ~  Last modified 30/1/21 3:50 PM
+  ~  */
+  -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="@dimen/_10sdp">
+
+        <CheckBox
+            android:id="@+id/checkbox_rv_slct_loct_city"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:theme="@style/common_checkbox"
+            android:fontFamily="@font/montserrat_semibold"
+            android:text="Mumbai"
+            android:paddingStart="@dimen/_10sdp"
+            android:textColor="@color/input_text_color"
+            android:textSize="@dimen/_11ssp" />
+
+
+        <TextView
+            android:id="@+id/tv_rv_slct_loct_city_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="@font/montserrat_regular"
+            android:gravity="end|center"
+            android:text="5"
+            android:textColor="@color/blackText"
+            android:textSize="@dimen/_12ssp" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/imgV_rv_slct_loct"
+            android:layout_width="@dimen/_20sdp"
+            android:layout_height="@dimen/_20sdp"
+            android:padding="@dimen/_1sdp"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/ic_arrow_down_24dp"
+            app:tint="@color/location_address_color" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/imgV_rv_slct_loct2"
+            android:layout_width="@dimen/_30sdp"
+            android:layout_height="@dimen/_30sdp"
+            android:layout_gravity="center_vertical"
+            android:visibility="gone" />
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/gainsboro" />
+
+    <net.cachapa.expandablelayout.ExpandableLayout
+        android:id="@+id/expandableLayout_rv_slct_location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:el_expanded="true">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rv_slct_loct_lcations"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </net.cachapa.expandablelayout.ExpandableLayout>
+
+</LinearLayout>

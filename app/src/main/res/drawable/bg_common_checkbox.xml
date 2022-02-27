@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /*
+  ~  Created by Pooran Kharol on 30/1/21 1:56 PM
+  ~  Copyright (c) 2021 . All rights reserved.
+  ~  Last modified 30/1/21 1:56 PM
+  ~  */
+  -->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <gradient
+        android:angle="270"
+        android:endColor="@color/colorPrimaryDark"
+        android:startColor="@color/colorPrimary"
+        android:type="linear" />
+
+    <padding android:top="2dp" />
+
+
+</shape>

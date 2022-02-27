@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /*
+  ~  Created by Pooran Kharol on 30/1/21 3:54 PM
+  ~  Copyright (c) 2021 . All rights reserved.
+  ~  Last modified 30/1/21 3:50 PM
+  ~  */
+  -->
+
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/gray_edittext"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBox
+        android:id="@+id/checkbox_slct_loct_comp_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/montserrat_regular"
+        android:text="Novalty Pvt. Ltd."
+        android:textColor="@color/location_address_color"
+        android:textSize="@dimen/_12ssp"
+        android:layout_margin="@dimen/_10sdp"
+        android:layout_marginStart="@dimen/_10sdp"/>
+
+    <View
+        android:id="@+id/view_slct_loct"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:visibility="gone"
+        android:background="@color/colorPrimaryDark"/>
+
+</LinearLayout>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /*
+  ~  Created by Pooran Kharol on 30/1/21 1:56 PM
+  ~  Copyright (c) 2021 . All rights reserved.
+  ~  Last modified 30/1/21 12:56 PM
+  ~  */
+  -->
+
+<resources>
+    <color name="card_background">#ffffff</color>
+    <color name="title_label">#263238</color>
+    <color name="subtitle_label">#78909C</color>
+    <color name="bgcolor">#f5f5f5</color>
+    <color name="appbar_color">#004C8F</color>
+    <color name="toolbar_title">#FFFFFF</color>
+    <color name="white_black">#FFFFFF</color>
+    <color name="tab_layout_color">#D7EDF8</color>
+    <color name="red_green">#ED232A</color>
+    <color name="colorbtn">#444444</color>
+    <color name="toolbar_divider">#80EEEEEE</color>
+    <color name="inactive_text">#78909C</color>
+    <color name="green">#004C8F</color>
+    <color name="grayText2">#A0A0A0</color>
+    <color name="light_gray">#EEEEEE</color>
+    <color name="graybg">#F2F2F3</color>
+    <color name="alltransaction">#0F4585</color>
+
+    <color name="toolbar1">#022D85</color>
+    <color name="toolbar2">#72A2CC</color>
+    <color name="blackText50">#80263238</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blackText2">#263238</color>
+
+    <color name="inactive">#C4C5C6</color>
+    <color name="blackText">#263238</color>
+    <color name="divider_color">#3378909C</color>
+    <color name="textStorePrice">#0F4585</color>
+    <color name="gray">#F2F2F3</color>
+    <color name="graytext3">#707070</color>
+    <color name="grayText">#898B8E</color>
+    <color name="filterBack">#1A0F4585</color>
+    <color name="whiteSmoke">#F5F5F5</color>
+    <color name="gray_edittext">#F2F2F3</color>
+    <color name="link_water">#C4C5C6</color>
+    <color name="calendarSelected2">#D1E7FF</color>
+    <color name="calendarSelected1">#FFE6E6</color>
+
+    <color name="dark_blue_green">#0F4585</color>
+
+    <color name="colorPrimary">#72A2CC</color>
+    <color name="colorPrimaryDark">#022D85</color>
+
+    <color name="burmudaGrey">#78909C</color>
+    <color name="burmudaGrey40">#6678909C</color>
+
+    <color name="user_accesstext1">#263238</color>
+    <color name="user_accesstext2">#78909C</color>
+    <color name="black_russian90">#E61F2229</color>
+    <color name="charcoal90">#E6444444</color>
+    <color name="grey90">#E6868686</color>
+
+    <!--DROP4-->
+    <color name="toolbar_title_color_new">#444444</color>
+    <color name="toolbar_subtitle_color_new">#80444444</color>
+    <color name="all_location_color">#444444</color>
+    <color name="calendar_text_color">#444444</color>
+    <color name="common_text_color">#444444</color>
+    <color name="common_text_color80">#CC444444</color>
+    <color name="common_text_color60">#99444444</color>
+    <color name="area_text_color90">#E61F2229</color>
+    <color name="location_address_color">#868686</color>
+    <color name="activity_background_color">#F5F5F5</color>
+    <color name="regular_text_color">#3474AB</color>
+    <color name="new_text_color">#77B6FE</color>
+    <color name="unknown_text_color">#E5655A</color>
+    <color name="oxford_blue50">#80263238</color>
+    <color name="sale_progress">#025395</color>
+    <color name="sale_progress_background">#99B9D5</color>
+    <color name="rating_bar_color">#FFC000</color>
+    <color name="progress_bg">#ECEFF1</color>
+    <color name="progress_rating_bg">#CECECE</color>
+    <color name="progress_rating_bg50">#80CECECE</color>
+    <color name="read_review_color">#1D85FE</color>
+    <color name="oxford_blue_color">#263238</color>
+    <color name="funnel_color1">#025395</color>
+    <color name="funnel_color2">#2F6FA4</color>
+    <color name="funnel_color3">#5C8CB4</color>
+    <color name="funnel_color4">#89A9C4</color>
+    <color name="spanish_green">#8A8E88</color>
+    <color name="spanish_green75">#BF8A8E88</color>
+    <color name="pine_tree">#171F12</color>
+    <color name="cobalt_color">#025296</color>
+    <color name="light_coral">#EE7D7B</color>
+    <color name="pl_divider">#33A0A0A0</color>
+    <color name="alice_blue_color">#F3F9FF</color>
+    <color name="night_rider_color">#333333</color>
+    <color name="dim_gray_color">#666666</color>
+    <color name="lochmara_color">#316FA2</color>
+    <color name="medium_sea_green_color">#36BC61</color>
+    <color name="gainsboro">#E2E2E2</color>
+    <color name="regent_grey">#7A8890</color>
+    <color name="persian_red">#DC3225</color>
+    <color name="input_text_color">#1F2229</color>
+    <color name="input_text_hint_color">#CECECE</color>
+    <color name="shakespeare_color">#6797C0</color>
+    <color name="alice_blue_color_2">#EFF6FF</color>
+    <color name="alice_blue_color_3">#F2F6FA</color>
+    <color name="inactive_text_color">#F2F2F2</color>
+    <color name="inactive_text_color13">#21F2F2F2</color>
+    <color name="input_bg_color_old">#f5f5f5</color>
+    <color name="midnight_express_color">#0D1D37</color>
+    <color name="success_status_color">#05AC3A</color>
+    <color name="ctb_progress1">#3475AA</color>
+    <color name="ctb_progress2">#36BC61</color>
+    <color name="ctb_progress3">#8378EC</color>
+    <color name="nero_color">#191919</color>
+    <color name="profile_bg_color">#F2F2F3</color>
+    <color name="myvyapaar_divider">#1A022D85</color>
+    <color name="matterhorn_color">#4F4F4F</color>
+    <color name="edittext_divider">#4D707070</color>
+
+    <color name="bgcolor_btn">#022D85</color>
+    <color name="click">#93BCE0</color>
+    <color name="ghost_white">#F2F2F3</color>
+    <color name="active">#333333</color>
+</resources>

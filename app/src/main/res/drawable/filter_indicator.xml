@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ /*
+  ~  Created by Pooran Kharol on 30/1/21 1:56 PM
+  ~  Copyright (c) 2021 . All rights reserved.
+  ~  Last modified 23/1/21 7:13 PM
+  ~  */
+  -->
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <corners
+                android:bottomLeftRadius="@dimen/_10sdp"
+                android:bottomRightRadius="@dimen/_10sdp"
+                android:topLeftRadius="@dimen/_10sdp"
+                android:topRightRadius="@dimen/_10sdp" />
+            <solid android:color="@color/textStorePrice" />
+        </shape>
+    </item>
+</layer-list>

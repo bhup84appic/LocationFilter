@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ /*
+  ~  Created by Pooran Kharol on 30/1/21 1:56 PM
+  ~  Copyright (c) 2021 . All rights reserved.
+  ~  Last modified 30/1/21 12:59 PM
+  ~  */
+  -->
+
+<resources>
+    <string name="view_more">View More</string>
+    <string name="view_the_sales_to_volume_business_analysis_for_your_outlets">View the sales to volume business analysis for your outlets.</string>
+    <string name="no_internet_connection_n_please_try_again_later">Oops! No Internet Connection.</string>
+    <string name="no_internet">No internet connection.\nPlease connect to Mobile data/ Wi-Fi</string>
+    <string name="know_which_payment_modes_your_customers_prefer_most_for_their_payment">Know which payment modes your customers prefer most for their payment.</string>
+    <string name="today">Today</string>
+    <string name="custom">Custom</string>
+    <string name="week">Week</string>
+    <string name="month">Month</string>
+    <string name="year">Year</string>
+    <string name="apply">Apply</string>
+    <string name="select_dates">Select Dates</string>
+    <string name="select_locations">Select Locations</string>
+    <string name="confirm">Confirm</string>
+    <string name="search_for_cities_amp_locations"><![CDATA[Search for Cities & Locations]]></string>
+    <string name="city">City</string>
+    <string name="location">Location</string>
+    <string name="clear_underline"><u>Clear</u></string>
+    <string name="select_all">Select all</string>
+    <string name="select_tids"><u>Select TIDs</u></string>
+    <string name="select_tid">Select TID</string>
+
+
+    <string name="month_january">Jan</string>
+    <string name="month_february">Feb</string>
+    <string name="month_march">Mar</string>
+    <string name="month_april">Apr</string>
+    <string name="month_may">May</string>
+    <string name="month_june">Jun</string>
+    <string name="month_july">Jul</string>
+    <string name="month_august">Aug</string>
+    <string name="month_september">Sept</string>
+    <string name="month_october">Oct</string>
+    <string name="month_november">Nov</string>
+    <string name="month_december">Dec</string>
+
+
+    <string name="week_monday">Monday</string>
+    <string name="week_tuesday">Tuesday</string>
+    <string name="week_wednesday">Wednesday</string>
+    <string name="week_thursday">Thursday</string>
+    <string name="week_friday">Friday</string>
+    <string name="week_saturday">Saturday</string>
+    <string name="week_sunday">Sunday</string>
+
+    <string name="sorry">Sorry</string>
+    <string name="this_terminal_id_has_been_deactivated_and_does_not_have_access_to_accept_payments_please_contact_hdfc_bank_support_for_any_queries">This terminal id has been deactivated and does not have access to accept payments. Please contact HDFC bank support for any queries.</string>
+    <string name="ok">OK</string>
+    <string name="location_error">Please select any location!</string>
+    <string name="cancel">Cancel</string>
+    -<string name="ob_termsUrl">
+
+-<![CDATA[By continuing, you agree to the <a href="https://www.mintoak.com/smarthub/tnc.html" target="_blank">Terms and Conditions</a> and the\n
+<a href="https://www.mintoak.com/privacy-policy.html" target="_blank">Privacy Policy</a>  of Mintoak]]>
+</string>
+    <string name="apply_filter">Apply Filter</string>
+    <string name="no_tid_selected_yet">No TID Selected yet</string>
+</resources>

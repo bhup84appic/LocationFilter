@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Larger blue circle in back -->
+    <item>
+        <shape>
+            <solid android:color="#E3F4D0" />
+            <size
+                android:width="15dp"
+                android:height="15dp" />
+
+            <corners
+                android:bottomLeftRadius="20dp"
+                android:bottomRightRadius="20dp"
+                android:topLeftRadius="20dp"
+                android:topRightRadius="20dp" />
+
+        </shape>
+    </item>
+    <!-- Smaller red circle in front -->
+    <item>
+        <shape>
+            <!-- transparent stroke = larger_circle_size - smaller_circle_size -->
+            <stroke
+                android:width="8dp"
+                android:color="@android:color/transparent" />
+            <gradient
+                android:angle="270"
+                android:endColor="#36BC61"
+                android:startColor="#36BC61" />
+            <size
+                android:width="5dp"
+                android:height="7dp" />
+            <corners
+                android:bottomLeftRadius="20dp"
+                android:bottomRightRadius="20dp"
+                android:topLeftRadius="20dp"
+                android:topRightRadius="20dp" />
+        </shape>
+    </item>
+</layer-list>
+
+    <!--<?xml version="1.0" encoding="utf-8"?>
+
+    <shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <size
+            android:width="10dp"
+            android:height="10dp" />
+        <gradient
+            android:angle="270"
+            android:endColor="#005EA1"
+            android:startColor="#0089D1" />
+        <corners
+            android:bottomLeftRadius="20dp"
+            android:bottomRightRadius="20dp"
+            android:topLeftRadius="20dp"
+            android:topRightRadius="20dp" />
+    </shape>-->

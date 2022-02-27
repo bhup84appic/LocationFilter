@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply_filter">फिल्टर लागू करें</string>
+    <string name="no_tid_selected_yet">No TID Selected yet</string>
+</resources>

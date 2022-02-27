@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /*
+  ~  Created by Pooran Kharol on 22/1/21 11:27 PM
+  ~  Copyright (c) 2021 . All rights reserved.
+  ~  Last modified 22/1/21 4:27 PM
+  ~  */
+  -->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:angle="360"
+        android:endColor="@color/toolbar2"
+        android:startColor="@color/toolbar1"
+        android:type="linear" />
+</shape>

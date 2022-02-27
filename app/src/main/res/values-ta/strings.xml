@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply_filter">வடிகட்டியைப் பயன்படுத்து</string>
+    <string name="no_tid_selected_yet">No TID Selected yet</string>
+</resources>

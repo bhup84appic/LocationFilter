@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /*
+  ~  Created by Pooran Kharol on 30/1/21 1:56 PM
+  ~  Copyright (c) 2021 . All rights reserved.
+  ~  Last modified 30/1/21 1:56 PM
+  ~  */
+  -->
+
+<resources>
+
+    <style name="CustomBottomSheetDialogTheme" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/CustomBottomSheetStyle</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowSoftInputMode">adjustResize</item>
+    </style>
+    <style name="CustomBottomSheetDialogTheme_transperent" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/CustomBottomSheetStyle_transperent</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowSoftInputMode">adjustResize</item>
+    </style>
+
+    <style name="CustomBottomSheetStyle" parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@drawable/round_dialog</item>
+    </style>
+    <style name="CustomBottomSheetStyle_transperent" parent="Widget.Design.BottomSheet.Modal">
+    <item name="android:background">@drawable/round_dialog_transperent</item>
+</style>
+
+    <style name="Transaction_Tab" parent="@android:style/TextAppearance.Widget.TabWidget">
+        <item name="android:fontFamily">@font/montserrat_medium</item>
+        <item name="android:textSize">@dimen/_9sdp</item>
+        <item name="android:maxLines">1</item>
+    </style>
+
+    <style name="common_checkbox" parent="Widget.AppCompat.CompoundButton.CheckBox">
+        <item name="android:background">@drawable/bg_common_checkbox</item>
+    </style>
+    <style name="RatingBarTheme" parent="Theme.AppCompat">
+        <item name="colorControlNormal">@color/progress_rating_bg</item>
+        <item name="colorControlActivated">@color/rating_bar_color</item>
+    </style>
+
+
+</resources>
